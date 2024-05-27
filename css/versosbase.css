@@ -19,3 +19,32 @@ p {
 .right {
     text-align: right;
 }
+
+
+@media screen and (min-width: 1024px) {
+    body {
+        margin: 0 auto;
+        
+    }
+    .cabeçalho {
+        width: 100%;
+    }
+    .texto-carta {
+        width: 80%;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (min-width: 1728px) {
+    body {
+        margin: 0 auto;
+        
+    }
+    .cabeçalho {
+        width: 100%;
+    }
+    .texto-carta {
+        width: 80%;
+        margin: 0 auto;
+    }
+}
