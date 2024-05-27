@@ -1,1 +1,12 @@
+.texto {
+    color: white;
+    padding: 0.8rem;
+    font-weight: 100;
+}
+
+.texto_titulo {
+    text-align: center;
+    font-style: italic;
+    margin: 0.8rem;
+}
 
