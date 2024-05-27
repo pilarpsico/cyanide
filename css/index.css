@@ -1,0 +1,82 @@
+body {
+        background-color: rgb(54, 37, 68);
+}
+.profile {
+    margin: 3.6rem auto;
+    text-align: center;
+}
+img {
+  
+    width: 6.4rem;
+    border-radius: 50%;
+}
+
+p {
+   
+    font-size: 1.2rem;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.botoes {
+    margin-top: 1.6rem;
+   text-align: center;
+}
+.botões_lista {
+   list-style: none;
+   
+}
+.botoes_item {
+    border: 1px solid rgb(103, 35, 167);
+    border-radius: 0.8rem;
+    width: 75%;
+    margin: 0 auto;
+    margin-bottom: 1.6rem;
+
+}
+
+.botoes_link {
+    text-decoration: none;
+    line-height: 3;
+    padding: 0.8rem;
+    color: white;
+} 
+
+.botoes_item:hover {
+    background-color: rgb(73, 23, 119);
+}
+
+.icon {
+    text-align: center;
+    
+}
+.icon_item {
+    display: inline;
+    font-size: 2.0rem;
+    padding:0.8rem;
+    color: white;
+}
+.icon_link {
+    color: white;
+}
+
+footer {
+    font-size: 1.2rem;
+    color: white;
+    padding: 1.6rem;
+    text-align: center;
+}
+@media screen and (min-width: 1024px) {
+    body {
+        margin: 0 auto;
+        max-width: 60%;
+    }
+}
+
+@media screen and (min-width: 1728px) {
+    body {
+        margin: 0 auto;
+        max-width: 60%;
+    }
+}
