@@ -3,6 +3,20 @@ body {
 }
 
 .cabeçalho {
+
+}
+
+.titulo-cabeçalho {
+    color:rgb(166, 202, 228);
+    font-style: italic;
+    font-weight: 700;
+    font-size: 1.8rem;
+    padding: 0.8rem;
+    /*background-color: rgb(143, 81, 202);*/
+    margin: 0.8rem;
+}
+/*
+.cabeçalho {
     border: 1px solid rgb(103, 35, 167);
     border-radius: 0.8rem;
     box-shadow: 4px 4px 0px 0px rgb(103, 35, 167);
@@ -17,7 +31,7 @@ body {
     padding: 0.8rem;
     
      
-}
+}*/
 
 .menu {
     background-color: rgb(92, 32, 148);
