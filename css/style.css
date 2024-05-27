@@ -31,3 +31,14 @@ body {
     font-size: 1.2rem;
     margin-left: 0.8rem;
 }
+
+
+
+
+.footer {
+    background-color: white;
+}
+.footer_nome {
+    text-align: center;
+    font-size: 1.2rem;
+}
