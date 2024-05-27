@@ -1,0 +1,14 @@
+.texto_site {
+    color: white;
+    margin-top: 1.6rem;
+}
+p {
+    padding: 0.8rem;
+}
+
+.center {
+    text-align: center;
+}
+.italic {
+    font-style: italic;
+}
