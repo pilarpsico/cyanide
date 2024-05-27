@@ -1,0 +1,25 @@
+.texto_eu {
+    color: white;
+    margin-top: 1.6rem;
+    font-weight: 300;
+}
+p {
+    padding: 0.8rem;
+}
+
+.pilar {
+    font-style: italic;
+    background: rgb(161, 103, 216);
+}
+
+.center {
+    text-align: center;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.italic {
+    font-style: italic;
+}
