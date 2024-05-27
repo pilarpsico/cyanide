@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(54, 37, 68);
+}
+
+.cabeçalho {
+    border: 1px solid rgb(103, 35, 167);
+    border-radius: 0.8rem;
+    box-shadow: 4px 4px 0px 0px rgb(103, 35, 167);
+    box-shadow: white;
+    width: 80%;
+    margin: 0.8rem auto;
+}
+.titulo-cabeçalho {
+    color: white;
+    font-style: italic;
+    text-align: center;
+    padding: 0.8rem;
+    
+     
+}
