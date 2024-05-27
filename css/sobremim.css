@@ -1,4 +1,4 @@
-.texto_eu {
+.texto_eu, .texto_med, .texto_psico, .texto_ferram {
     color: white;
     margin-top: 1.6rem;
     font-weight: 300;
@@ -22,4 +22,25 @@ p {
 
 .italic {
     font-style: italic;
+}
+
+.med_atualizado {
+   padding: 0.8rem;
+}
+.med_link {
+    text-decoration: none;
+    color: rgb(38, 124, 110);
+}
+hr {
+    margin-top: 0.8rem;
+}
+
+.bgcolor {
+    background-color: rgb(92, 62, 119);
+    padding:0;
+    margin:0;
+}
+
+.weight {
+    font-weight: 700;
 }
