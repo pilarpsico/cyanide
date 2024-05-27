@@ -59,6 +59,7 @@ p {
 }
 .voltar_link {
     color: white;
+    font-size: 1.2rem;
     text-decoration: none;
     border: 2px solid rgb(103, 35, 167);
     border-radius: 0.8rem;
