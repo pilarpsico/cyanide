@@ -1,11 +1,18 @@
 body {
-        background-color: rgb(54, 37, 68);
+        
+ background-image: url(../img/ferramentas-essenciais-para-capturar-momentos-vista-superior-de-acessorios-fotograficos-com-espaco-para-texto_930407-7994.jpg);
+ background-repeat: no-repeat;
+ background-size: contain;
+ background-color: rgb(37, 37, 37);
+
+        
+        
 }
 .profile {
     margin: 3.6rem auto;
     text-align: center;
 }
-img {
+.foto_profile {
   
     width: 6.4rem;
     border-radius: 50%;
@@ -41,6 +48,7 @@ p {
     line-height: 3;
     padding: 0.8rem;
     color: white;
+    font-weight: 700;
 } 
 
 .botoes_item:hover {
@@ -71,13 +79,15 @@ footer {
 @media screen and (min-width: 1024px) {
     body {
         margin: 0 auto;
-        max-width: 60%;
+       background-color: rgb(54, 37, 68);
+       background-image: none;
     }
 }
 
 @media screen and (min-width: 1728px) {
     body {
         margin: 0 auto;
-        max-width: 60%;
+        background-color:  rgb(54, 37, 68);
+        background-image: none;
     }
 }
