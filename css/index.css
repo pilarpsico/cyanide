@@ -42,7 +42,9 @@ p {
    
 }
 .botoes_item {
-    border: 1px solid rgb(103, 35, 167);
+/*    border: 1px solid rgb(103, 35, 167);*/
+    border: 1px solid white;
+
     border-radius: 0.8rem;
     width: 75%;
     margin: 0 auto;
