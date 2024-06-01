@@ -48,7 +48,14 @@ p {
 .weight {
     font-weight: 700;
 }
+.white {
+    color:white;
+}
 
+.todascartas {
+    background-color: blueviolet;
+    margin-top: 1.6rem;
+}
 
 
 
@@ -61,6 +68,9 @@ p {
     line-height: 2.5;
     text-decoration: none;
     color: rgb(11, 176, 218);
+}
+.font18 {
+    font-size: 1.8rem;
 }
 
 
