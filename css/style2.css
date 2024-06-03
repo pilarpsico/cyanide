@@ -37,11 +37,26 @@ p {
     text-align: justify;
 }
 
+
+    .footer {
+        background-color: white;
+    }
+    .footer_nome {
+        text-align: center;
+        font-size: 1.2rem;
+    }
+
+
 @media  screen and (min-width: 1028px) {
+    p {
+        width: 80%;
+        margin: 0 auto;
+    }
     .img_header {
         width: 100%;
         height: 15.0rem;
     }
     .titulo_texto {
         margin-top: 14.6rem;
+}
 }
